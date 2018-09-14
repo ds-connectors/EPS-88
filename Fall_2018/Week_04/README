@@ -1,0 +1,6 @@
+- pandas DataFrames, indexing, and data cleaning.
+- Load marine geophysical data (bathymetry and marine magnetic anomalies) from two oceanic ridges.
+- Select data and drop rows with gaps.
+- Plot bathymetry data and evaluate spreading rate.
+- Declare a function to detrend and filter magnetic anomalie data.
+- Plot marine magnetic anomaly data and compare spreading rates.
