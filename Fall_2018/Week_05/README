@@ -1,0 +1,3 @@
+Load a Bay Area seismic catalog.
+Compute the distance and time interval between earthquakes, and use these to indentify aftershocks.
+Remove the aftershocks from the catalog (decluster).
