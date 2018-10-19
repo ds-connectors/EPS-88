@@ -1,0 +1,6 @@
+Module 4a
+- Load marine bathymetry data and age of seafloor (found from marine magnetics) from several oceanic ridges
+- Use `interpolate.Rbf` to do a 2D interpolation of age data
+- Plot bathymetry data vs. age
+- Fit a bathymetry(age) model
+- Compare our with the model of Stein and Stein, 1992
