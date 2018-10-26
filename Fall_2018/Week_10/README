@@ -1,0 +1,5 @@
+Module 4b
+- Load peak ground acceleration observations from two notable M6 quakes in California
+- Fit a ground motion prediction equation (GMPE) using `polyfit`
+- Vary our assumed mean event depth to find better fitting model
+- Fit a GMPE after weighing the data by the distance distribution using `linalg.solve`
