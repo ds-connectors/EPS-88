@@ -1,0 +1,5 @@
+Module 5a
+- Review some key statistics topics: samples versus populations and empirical versus theorectical distributions
+- Simulate a head/tail coin toss i.e. Binomial distribution
+- Simulate cars passing a point i.e. Poisson distribution
+- Simulate geomagnetic polarity reversals i.e. Gamma distribution
