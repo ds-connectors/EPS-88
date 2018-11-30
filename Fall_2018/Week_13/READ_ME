@@ -1,0 +1,8 @@
+Module 6 - Final
+
+Load a Bay Area seismic catalog
+Compute the distance and time interval between earthquakes, and use these to indentify aftershocks
+Remove the aftershocks from the catalog (decluster)
+Least-squares fitting of the Gutenberg-Richter law Bay Area catalog
+Load peak ground acceleration observations from two notable M6 quakes in California
+Fit a GMPE after weighing the data by the distance distribution
