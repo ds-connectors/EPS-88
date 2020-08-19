@@ -5,3 +5,5 @@
 )
 
 Course content for EPS 88 A Python Introduction to Earth Science.
+
+The contents of this repository are licensed for reuse under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.

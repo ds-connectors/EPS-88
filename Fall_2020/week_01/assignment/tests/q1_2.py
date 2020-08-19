@@ -1,12 +1,12 @@
 test = {
   'name': 'Question 1_1',
-  'points': 1,
+  'points': 2.5,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> 31536000.0 <= sec_per_year <= 31557600.0
+          >>> -90.0 <= birthquake_latitude <= 90.0 && -180.0 <= birthquake_longitude <= 180.0
           True
           """,
           'hidden': False,

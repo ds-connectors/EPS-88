@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> 31536000.0 < sec_per_year < 31557600.0
+          >>> 31536000.0 <= sec_per_year <= 31557600.0
           True
           """,
           'hidden': False,
